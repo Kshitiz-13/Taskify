@@ -1,6 +1,6 @@
 # Taskify
 ### https://taskify-v1.herokuapp.com/landing
-Taskiify A web App made using MERN to make our life easier while applying for Jobs and while doing our daily tasks. With very user Friendly interface one can track various jobs they applied to and             can easily manage a Tasks List within the App!! Working on more             features that will be available soon!
+Taskify A web App made using MERN to make our life easier while applying for Jobs and while doing our daily tasks. With very user Friendly interface one can track various jobs they applied to and             can easily manage a Tasks List within the App!! Working on more             features that will be available soon!
 
 # Landing Page
 ![image](https://user-images.githubusercontent.com/55119355/168460318-bc698e05-d760-484b-a56f-eea75bd6ce10.png)
